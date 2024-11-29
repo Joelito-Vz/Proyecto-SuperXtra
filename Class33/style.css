@@ -1,0 +1,63 @@
+body{
+    background-color: #a04;
+
+}
+
+.navbar{
+    background-image: linear-gradient(#004d98, #db0030);
+    height: 100px;
+    padding: 0 auto;
+}
+
+.logonavbar{
+    margin-right: 20px;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    color: #ffed02 !important;
+    text-shadow: 0 0 30px #f4e516;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+   
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 span{
+    font-weight: bolder;
+}
+
+.oferta{
+    color:#004d98;
+    text-shadow: 0 0 20px #f4e516;
+}
+
+.FULLXTRA{
+    color:#004d98;
+    text-shadow:0 0 20px #f4e516;
+}
+
+.card{
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(21, 101, 5, 0.5);
+    scale: 1.05;
+    transition: 0.85s;
+}
+
+.container-footer{
+    background-image: linear-gradient(#db0030,#004d98);
+    width: 100%;
+}
+
+footer{
+    margin: 0;
+    margin-top: 40px;
+}
